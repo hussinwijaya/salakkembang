@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost/caringinnunggal/';
+$config['base_url']	= 'http://localhost/salakkembang/';
 
 /*
 |--------------------------------------------------------------------------

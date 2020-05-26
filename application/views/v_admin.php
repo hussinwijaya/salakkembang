@@ -4,7 +4,7 @@
 ?>
 <div class="row">
 		<div class="col-md-6">
-			<h3>Selamat Datang <b>Admin Caringin Nunggal</b></h3>
+			<h3>Selamat Datang <b>Admin Desa Salakkembang</b></h3>
 			<legend></legend>
 		</div>
 		<div class="col-md-6" >

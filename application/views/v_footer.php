@@ -3,24 +3,24 @@
 		<div class="row">
 			<div class="col-sm-6">
 				<div class="footer-content">
-					<h2>DESA CARINGIN NUNGGAL</h2>					
+					<h2>DESA Salakkembang</h2>					
 					<legend></legend>
-					<p><h4>Sistem Informasi Desa dan Kawasan</h4></p>
+					<p><h4>Sistem Informasi</h4></p>
 					<div class="row">
 						<div class="col-md-6 col-sm-12 col-xs-12">
 							<ul class="list-icons">
 							<li><i class="fa fa-map-marker"></i>Kantor Desa</li>
-							<li><i class="fa fa"></i>JL. Padaherang RT.004/007 KM. 10</li>
-							<li><i class="fa "></i>Waluran KAB. Sukabumi 43157<br></li>	
+							<li><i class="fa fa"></i>JL. Raya salakkembang, kalidawir</li>
+							<li><i class="fa "></i> tulungagung.662817<br></li>	
 							<li><i class="fa fa-map-marker"></i>Kantor Karang Taruna</li>
-							<li><i class="fa fa"></i>JL. Padaherang RT.004/007 KM. 10</li>
-							<li><i class="fa "></i>Waluran KAB. Sukabumi 43157<br></li>						
+							<li><i class="fa fa"></i>JL. Raya salakkembang, kalidawir</li>
+							<li><i class="fa "></i> tulungagung.662817<br></li>					
 						</ul>
 						</div>
 						<div class="col-md-6 col-sm-12 col-xs-12">
 						<ul class="list-icons">
 						<li><i class="fa fa-phone pr-10"></i> 0266 837 929</li>
-						<li><i class="fa fa-envelope-o pr-10"></i> caringinnunggal@yahoo.com</li>
+						<li><i class="fa fa-envelope-o pr-10"></i> hussinwijaya@gmail.com</li>
 						<li><i class="fa fa-mobile-phone pr-10"></i> +62821 2188 5876</li>
 						</ul>
 							<ul class="social-links circle">
